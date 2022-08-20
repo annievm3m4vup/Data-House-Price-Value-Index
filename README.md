@@ -3,8 +3,8 @@
 ## Source: Zillow, Zillow Home Value Index (ZHVI)
 
 1. Website: https://www.zillow.com/research/data/
-
-
+2. Seasonally adjusted
+3. 
 
 
 
