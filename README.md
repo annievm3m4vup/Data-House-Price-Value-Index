@@ -14,5 +14,4 @@
 
 2. HOUSE PRICE INDEX DATASETS > Additional Data > census tracts, zip codes, counties, CBSAs, States
 
-3. Take census tracts as example: 
-Range: 1975 - 2021
+3. Year: 1975 - 2021
