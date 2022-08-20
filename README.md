@@ -3,7 +3,7 @@
 ## Source: Zillow, Zillow Home Value Index (ZHVI)
 
 1. Website: https://www.zillow.com/research/data/
-2. Seasonally adjusted
+2. Time-series, smoothed, seasonally adjusted
 3. 
 
 
@@ -15,3 +15,5 @@
 2. HOUSE PRICE INDEX DATASETS > Additional Data > census tracts, zip codes, counties, CBSAs, States
 
 3. Year: 1975 - 2021
+
+4. Developmental Index; Not Seasonally Adjusted
